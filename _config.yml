@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "AWS를 좋아하는 MLOpsEnginner겸 DataEngineer겸 CloudEngineer의 개발자 노트"# site tagline that appears below site title in masthead
 name                     : "지나가겠지?"
 description              : "An amazing website."
-url                      : "https://go-throght.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://go-throgh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
