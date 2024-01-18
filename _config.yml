@@ -20,7 +20,7 @@ locale                   : "ko-KR"
 title                    : "This too shall pass, right?"
 title_separator          : "|"
 subtitle                 : "AWS를 좋아하는 MLOpsEnginner겸 DataEngineer겸 CloudEngineer의 개발자 노트" # site tagline that appears below site title in masthead
-name                     : "지나갑니다"
+name                     : "이 또한 지나갈거에요"
 description              : "An amazing website."
 url                      : "https://go-throgh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
