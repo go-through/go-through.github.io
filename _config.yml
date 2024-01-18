@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "This too shall pass, right?"
 title_separator          : "|"
-subtitle                 : "AWS를 좋아하는 MLOpsEnginner겸 DataEngineer겸 CloudEngineer의 개발자 노트" # site tagline that appears below site title in masthead
+subtitle                 : "AWS를 좋아하는 MLOpsEngineer겸 DataEngineer겸 CloudEngineer의 개발자 노트" # site tagline that appears below site title in masthead
 name                     : "이 또한 지나갈거에요"
 description              : "An amazing website."
 url                      : "https://go-through.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
