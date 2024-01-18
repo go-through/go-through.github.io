@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 title                    : "This too shall pass, right?"
-title_separator          : "-"
-subtitle                 : "AWS를 좋아하는 MLOpsEnginner겸 DataEngineer겸 CloudEngineer의 개발자 노트"# site tagline that appears below site title in masthead
-name                     : "지나가겠지?"
+title_separator          : "|"
+subtitle                 : "AWS를 좋아하는 MLOpsEnginner겸 DataEngineer겸 CloudEngineer의 개발자 노트" # site tagline that appears below site title in masthead
+name                     : "지나갑니다"
 description              : "An amazing website."
 url                      : "https://go-throgh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -31,9 +31,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "go-throgh" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -288,6 +288,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      comments: true
+      share: false
       related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
